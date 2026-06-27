@@ -1,2 +1,41 @@
-# ceccf393-warehouse-fulfillment-client
-Streamline your warehouse and fulfillment operations with this ready-to-use n8n workflow designed for automated client onboarding. This powerful automation eliminates manual data entry, reduces errors, and accelerates the onboarding process by seamlessly integrating with your existing tools. From initial inquiry to account activation, the workflow
+# Warehouse & Fulfillment Client Onboarding Automation N8N Workflow
+
+> Workflow for Warehouse
+
+Stop manually juggling spreadsheets, emails, and paperwork every time a new fulfillment client signs on — this N8N workflow automates the entire onboarding pipeline, eliminating bottlenecks and data errors.
+
+This ready-to-use N8N workflow streamlines client onboarding for warehouse and fulfillment operations by automating data capture, document...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$39.00** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/28EaEXfXx4sce00dI0cZd1Q)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
